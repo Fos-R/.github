@@ -1,3 +1,3 @@
-# FosR: forgery of security recordings
+# Fos-R: Forger Of Security Records
 
-TBD
+Check [fosr.inria.fr](https://fosr.inria.fr) to know more about this project!
